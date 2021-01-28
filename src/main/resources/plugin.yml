@@ -1,0 +1,17 @@
+name: ResetAttributes
+main: ResetAttributes
+version: ${project.version}
+authors:
+  - PenalBuffalo
+api-version: 1.13
+description: Resets Attributes
+load: POSTWORLD
+
+commands:
+  resetattributes:
+    description: Resets Attributes
+
+permissions:
+  resetattributes.*:
+    description: 'Access to all ResetAttributes'
+    default: op

@@ -1,0 +1,13 @@
+reset-is-enabled: false
+
+# attributes to be reset:
+attribute-max-health: true
+attribute-movement-speed: true
+attribute-generic-luck: true
+attribute-armor: true
+attribute-armor-toughness: true
+attribute-attack-damage: true
+attribute-attack-speed: true
+attribute-knockback-resistance: true
+
+
